@@ -30,7 +30,9 @@ conda env remove -n carnd-term1
 activate carnd-term1
 ```
 - Stop: close the terminal window
-
+```
+deactivate carnd-term1
+```
 
 ## Using jupyter
 - Run
