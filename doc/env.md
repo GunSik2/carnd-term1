@@ -39,7 +39,7 @@ jupyter notebook
 ```
 
 ## Trouble shooting
-- ERROR conda.core.link:_execute_actions(330): 
+- ERROR conda.core.link:_execute_actions(330):  An error occurred while installing package 'conda-forge::qt-4.8.7-vc14_7'
 ```
 conda update conda
 conda env remove -n carnd-term1
