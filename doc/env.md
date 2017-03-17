@@ -1,0 +1,32 @@
+# Env for Windows 10
+
+## Installation
+- Download and install [miniconda](https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86_64.exe)
+- Set up:
+```
+git clone https://github.com/udacity/CarND-Term1-Starter-Kit.git
+cd CarND-Term1-Starter-Kit
+move meta_windows_patch.yml meta.yml
+```
+
+- Run
+```
+conda env create -f environment.yml
+```
+
+- Verify
+```
+conda info --envs
+```
+
+- Uninstall
+```
+conda env remove -n carnd-term1
+```
+
+## Using Anaconda
+- Run
+```
+activate carnd-term1
+```
+- Stop: close the terminal window
