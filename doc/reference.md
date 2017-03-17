@@ -1,5 +1,6 @@
 # Reference material
 
 
-- https://github.com/udacity/CarND-Term1-Starter-Kit
-- https://github.com/udacity/CarND-LaneLines-P1
+- [CarND-Term1-Starter-Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
+- [CarND-LaneLines-P1](https://github.com/udacity/CarND-LaneLines-P1)
+  - [basics-jupyter-notebook-and-python](https://www.packtpub.com/books/content/basics-jupyter-notebook-and-python)
