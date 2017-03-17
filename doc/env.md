@@ -37,3 +37,11 @@ activate carnd-term1
 ```
 jupyter notebook 
 ```
+
+## Trouble shooting
+- ERROR conda.core.link:_execute_actions(330): 
+```
+conda update conda
+conda env remove -n carnd-term1
+conda env create -f environment.yml
+```
