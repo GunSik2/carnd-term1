@@ -2,6 +2,37 @@ import numpy as np
 import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
 
+x = [1, 2, 3]
+x.extend([4, 5])
+x.extend('abc')
+print(x)
+
+
+def averge():
+    x = [[1, 2, 3, 4], [5, 6, 7, 8]]
+    npx = np.array(x)
+
+    print("xes = ", npx[:, 0::2])
+    print("flatten = ", np.ndarray.flatten(npx[:, 0::2]))
+averge()
+
+def test_append():
+    xes = []
+    xes.append([1, 2, 3, 4])
+    xes.append([1, 2, 3, 4])
+    print(xes)
+test_append()
+
+def test_extend():
+    xes = [1, 2, 3]
+    xes.extend([4])
+    xes.extend([5])
+    xes.extend([5])
+    print(xes)
+    print(int(sum(xes) / len(xes)))
+
+test_extend()
+
 def map_test():
     ev2 = [0, -655.93684210526317, 960, -1353.2]
     m2 = list(map(int, ev2))

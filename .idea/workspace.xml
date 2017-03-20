@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16994eff-6878-4e59-ad50-b861decbb977" name="Default" comment="" />
+    <list default="true" id="16994eff-6878-4e59-ad50-b861decbb977" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1-LaneLines/test_images_output/solidWhiteCurve.jpg" afterPath="$PROJECT_DIR$/p1-LaneLines/test_images_output/solidWhiteCurve.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1-LaneLines/test_images_output/solidWhiteRight.jpg" afterPath="$PROJECT_DIR$/p1-LaneLines/test_images_output/solidWhiteRight.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1-LaneLines/test_images_output/solidYellowCurve.jpg" afterPath="$PROJECT_DIR$/p1-LaneLines/test_images_output/solidYellowCurve.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1-LaneLines/test_images_output/solidYellowCurve2.jpg" afterPath="$PROJECT_DIR$/p1-LaneLines/test_images_output/solidYellowCurve2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1-LaneLines/test_images_output/solidYellowLeft.jpg" afterPath="$PROJECT_DIR$/p1-LaneLines/test_images_output/solidYellowLeft.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1-LaneLines/test_images_output/test.jpg" afterPath="$PROJECT_DIR$/p1-LaneLines/test_images_output/test.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1-LaneLines/test_images_output/whiteCarLaneSwitch.jpg" afterPath="$PROJECT_DIR$/p1-LaneLines/test_images_output/whiteCarLaneSwitch.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1-LaneLines/test_videos_output/solidWhiteRight.mp4" afterPath="$PROJECT_DIR$/p1-LaneLines/test_videos_output/solidWhiteRight.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/carnd-term1.iml" afterPath="$PROJECT_DIR$/.idea/carnd-term1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1-LaneLines/.ipynb_checkpoints/p1-findLaneLine-checkpoint.ipynb" afterPath="$PROJECT_DIR$/p1-LaneLines/.ipynb_checkpoints/p1-findLaneLine-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p1-LaneLines/p1-findLaneLine.ipynb" afterPath="$PROJECT_DIR$/p1-LaneLines/p1-findLaneLine.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/z1-experiment/basic.py" afterPath="$PROJECT_DIR$/z1-experiment/basic.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +43,8 @@
       <file leaf-file-name="basic.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/z1-experiment/basic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="294">
+              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -37,12 +52,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="abline.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pyplot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/z1-experiment/pyplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="503">
+              <caret line="162" column="3" lean-forward="false" selection-start-line="162" selection-start-column="3" selection-end-line="162" selection-end-column="3" />
+              <folding>
+                <element signature="e#2045#2063#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="np.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/z1-experiment/np.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abline.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/z1-experiment/abline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,6 +114,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>]</find>
+      <find>average_line</find>
+      <find>plus</find>
+      <find>img</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>],</replace>
+      <replace>minus</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -83,16 +134,18 @@
       <list>
         <option value="$PROJECT_DIR$/p1-LaneLines/m01.colorselection.py" />
         <option value="$PROJECT_DIR$/z1-experiment/houghline.py" />
-        <option value="$PROJECT_DIR$/z1-experiment/basic.py" />
         <option value="$PROJECT_DIR$/z1-experiment/abline.py" />
+        <option value="$PROJECT_DIR$/z1-experiment/np.py" />
+        <option value="$PROJECT_DIR$/z1-experiment/basic.py" />
+        <option value="$PROJECT_DIR$/z1-experiment/pyplot.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="113" />
-    <option name="y" value="73" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="x" value="-61" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="987" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -112,8 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -142,30 +193,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/Miniconda3/envs/carnd-term1/python.exe" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.abline">
-    <configuration default="false" name="m01.colorselection" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p1-LaneLines" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="carnd-term1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p1-LaneLines/m01.colorselection.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.basic">
     <configuration default="false" name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,6 +249,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="carnd-term1" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z1-experiment/abline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="np" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/z1-experiment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="carnd-term1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z1-experiment/np.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pyplot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/z1-experiment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="carnd-term1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z1-experiment/pyplot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -351,18 +421,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.m01.colorselection" />
-      <item index="1" class="java.lang.String" itemvalue="Python.basic" />
-      <item index="2" class="java.lang.String" itemvalue="Python.houghline" />
-      <item index="3" class="java.lang.String" itemvalue="Python.abline" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.basic" />
+      <item index="1" class="java.lang.String" itemvalue="Python.houghline" />
+      <item index="2" class="java.lang.String" itemvalue="Python.abline" />
+      <item index="3" class="java.lang.String" itemvalue="Python.np" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pyplot" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.abline" />
-        <item index="1" class="java.lang.String" itemvalue="Python.basic" />
-        <item index="2" class="java.lang.String" itemvalue="Python.houghline" />
-        <item index="3" class="java.lang.String" itemvalue="Python.m01.colorselection" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.basic" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pyplot" />
+        <item index="2" class="java.lang.String" itemvalue="Python.np" />
+        <item index="3" class="java.lang.String" itemvalue="Python.abline" />
+        <item index="4" class="java.lang.String" itemvalue="Python.houghline" />
       </list>
     </recent_temporary>
   </component>
@@ -383,15 +455,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="113" y="73" width="1696" height="1026" extended-state="0" />
-    <editor active="false" />
+    <frame x="-61" y="23" width="1400" height="987" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23522316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28540462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5549327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31506848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -410,11 +482,44 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/p1-LaneLines/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z1-experiment/basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z1-experiment/houghline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z1-experiment/houghlines5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/p1-LaneLines/readme.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -517,11 +622,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/143143360/cv2/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/z1-experiment/houghlines5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Miniconda3/envs/carnd-term1/Lib/site-packages/matplotlib/pyplot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-273">
@@ -540,21 +640,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/z1-experiment/abline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z1-experiment/np.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z1-experiment/houghlines5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/z1-experiment/basic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="294">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/z1-experiment/abline.py">
+    <entry file="file://$PROJECT_DIR$/z1-experiment/pyplot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="503">
+          <caret line="162" column="3" lean-forward="false" selection-start-line="162" selection-start-column="3" selection-end-line="162" selection-end-column="3" />
+          <folding>
+            <element signature="e#2045#2063#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
