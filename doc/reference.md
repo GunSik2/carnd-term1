@@ -7,3 +7,4 @@
 
 - Neural Networks
   - [optimiazing gradient descent](http://sebastianruder.com/optimizing-gradient-descent/index.html#momentum)
+    - To avoid local minima, you can use momentum
