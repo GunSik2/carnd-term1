@@ -9,9 +9,14 @@ cd CarND-Term1-Starter-Kit
 move meta_windows_patch.yml meta.yml
 ```
 
-- Run
+- Run (CPU)
 ```
 conda env create -f environment.yml
+```
+
+- Run (GPU)
+```
+conda env create -f environment-gpu.yml
 ```
 
 - Verify
